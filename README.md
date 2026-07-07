@@ -1,16 +1,13 @@
-## Hi there 👋
+### Hola, soy Nahuel 👋
 
-<!--
-**nahuelfd/nahuelfd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Egresado de la Tecnicatura Universitaria en Programación (UTN Rosario).
+Aprendiendo a construir soluciones backend, un proyecto a la vez.
 
-Here are some ideas to get you started:
+**Stack:**
+C# · .NET · Entity Framework Core · SQL Server · Node.js · React · JavaScript
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Proyectos destacados:**
+- 🏋️ **Globo Gym** – API REST en Clean Architecture para gestión de gimnasio (proyecto grupal, colaborador)
+- 🎬 **Cine TUP** – Sistema de gestión de cine, full stack (proyecto grupal)
+
+📫 nahuelfd@gmail.com | [LinkedIn](https://linkedin.com/in/nfdallavalle)
